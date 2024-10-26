@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    color: yellow;
+    font-family: inherit;
+    text-align: center;
+}
+p{
+    color: orange;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    height: 200px;
+    width: 400px;
+    margin-left: 450px;
+}
+a{
+    color: rgb(42, 179, 63);
+}

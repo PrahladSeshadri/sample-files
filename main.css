@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    color: aqua;
+    font-size: larger;
+    font-family: cursive;
+}
+h2{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.topside{
+    height: 100px;
+    width: 100px;
+    margin-left: 500px;
+}
+.board{
+    height: 400px;
+    width: 1000px;
+    margin-left: 150px;
+}
+a{
+    color: rgb(42, 179, 63);
+}
